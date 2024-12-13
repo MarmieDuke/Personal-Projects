@@ -46,17 +46,17 @@ Local Storage:
 
 Technologies: JS, CSS, HTML, API, JSON 
 --------------------------------------------------------------------------------------------------------------------
-3. Secretariat Project
+3. Secretariat Project 
 Description: 
-Optimized the secretariat process, 
-reducing the time to generate reports from 1 hour to just 10 minutes. 
-Automated the creation of secretariat forms using member data, and 
-integrated a Graphic User Interface (GUI) with 
-Java Database Connectivity (JDBC) for smoother operation.
+Produces formatted Secretariat forms (.xlsx) using member data
+Experimented with Graphic User Interface and Java Database Connectivity
 
-Technologies: Java, PHP, Java Database Connectivity (JDBC), GUI, MariaDB
+Technologies: Java, Java Database Connectivity (JDBC), Gui, Apache POI
 --------------------------------------------------------------------------------------------------------------------
 4.Junior Developer, 3rd Place Hackathon Project
+https://devpost.com/software/turning-point-ready-to-turn-a-new-leaf
+https://github.com/jbrar623/HackathonProject.git
+
 Description: 
 Contributed to a project that provided health and community resources 
 for individuals struggling with addiction. As part of a team, I helped 
