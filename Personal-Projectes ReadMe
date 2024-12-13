@@ -1,0 +1,66 @@
+Welcome to My GitHub Profile! 
+
+I’m Prince Manzano, an aspiring Backend Software Developer with experience in 
+- JavaScipt (intermediate) and Java(proficient)
+- PHP (intermediate), MariaDB (intermediate), and SQL (intermediate)
+
+I have a background in finance as a volunteer Auditor and a minor in Data Science.
+
+I love to create projects that help my friends and family. I get so happy when
+something I built become a converstation starter. I get so much insights and suggestions
+which helps me strive to become a better programmer and software designer.
+
+Feel free to explore my repositories. I am more than happy to go furthur in detail 
+through an interview. I’m always open to new opportunities and challenges!
+
+Projects
+--------------------------------------------------------------------------------------------------------------------
+1. F1 Webpage
+Description: 
+a PHP-based data-driven website that interacts with a database using RESTful APIs. 
+
+Features:
+Browsing:
+- Can Browse Results of a 2022 season to show Driver information, Constructor details
+and Results, specifically finishing positions, fastest laps, and race times.
+
+Technologies: PHP, CSS, HTML, MySQLite
+--------------------------------------------------------------------------------------------------------------------
+2. F1 Webpage pt.2
+Description: 
+This project involves creating a Single-Page Application (SPA) to display Formula 1 (F1) race data. 
+The application uses JavaScript to interact with an F1 API to fetch and present race information, 
+including circuits, drivers, constructors, and race results. 
+
+Features:
+
+Browse:
+-Integrates a F1 API to be converted to JSON to display F1 information.
+
+Pop-ups:
+-Popups that display Driver and Constructor Views
+
+Local Storage:
+-Caches race data in localStorage using JSON.stringify() and retrieves it with JSON.parse() to avoid repeated API calls. 
+- Uses Local Storage to save user favorites. After user clicks an item. Gets saved for current session.
+
+Technologies: JS, CSS, HTML, API, JSON 
+--------------------------------------------------------------------------------------------------------------------
+3. Secretariat Project
+Description: 
+Optimized the secretariat process, 
+reducing the time to generate reports from 1 hour to just 10 minutes. 
+Automated the creation of secretariat forms using member data, and 
+integrated a Graphic User Interface (GUI) with 
+Java Database Connectivity (JDBC) for smoother operation.
+
+Technologies: Java, PHP, Java Database Connectivity (JDBC), GUI, MariaDB
+--------------------------------------------------------------------------------------------------------------------
+4.Junior Developer, 3rd Place Hackathon Project
+Description: 
+Contributed to a project that provided health and community resources 
+for individuals struggling with addiction. As part of a team, I helped 
+design the platform and ensure it was user-friendly and accessible.
+
+Technologies: HTML, CSS, React, JavaScript, Figma
+--------------------------------------------------------------------------------------------------------------------
